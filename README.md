@@ -1,2 +1,9 @@
-# calculator
-css hmtl js
+# CALCULATOR
+* https://learn.freecodecamp.org/responsive-web-design/css-grid
+* https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator/
+* https://www.google.fr/search?q=freecodecamp+calculator&rlz=1C1NDCM_frFR785FR785&oq=freecodecamp+calculator&aqs=chrome.0.0j69i60j0l4.4463j0j7&sourceid=chrome&ie=UTF-8
+* https://codepen.io/freeCodeCamp/full/wgGVVX
+* https://codeburst.io/making-a-calculator-with-basic-html-css-and-javascript-part-1-1e4288f0bea1
+* https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98
+* https://medium.com/@ethanryan/lets-make-a-javascript-calculator-a81186cb912f
+* https://www.youtube.com/watch?v=6v4vBXL-qkY
